@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a920231-6bfd-42a5-ae53-fa3912a0f9f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BaitapJava_Linh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4_IfElse/CaulenhIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4_IfElse/CaulenhSwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT5_VongLapFor/VongLapFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT6_Mang/Mang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT7_Collection_ArrayList/BT7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT7_Collection_ArrayList/Nhanvien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT8_JavaOOP1/Nhanvien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT8_JavaOOP1/Thongtin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BTVN_Java_Linh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT9_person/company/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT9_person/person/Information.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT9_person/person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +48,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/testing/BaitapJava_Linh/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Thongtin">
-    <configuration name="BT7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BT7_Collection_ArrayList.BT7" />
+  <component name="RunManager" selected="Application.Company">
+    <configuration name="BT9_person.persom.Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT9_person.persom.Person" />
       <module name="BaitapJava_Linh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BT7_Collection_ArrayList.*" />
+          <option name="PATTERN" value="BT9_person.persom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BT8_JavaOOP1.Nhanvien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BT8_JavaOOP1.Nhanvien" />
+    <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT9_person.company.Company" />
       <module name="BaitapJava_Linh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BT8_JavaOOP1.*" />
+          <option name="PATTERN" value="BT9_person.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BT6_Mang.Mang" />
+    <configuration name="Information" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT9_person.persom.Information" />
       <module name="BaitapJava_Linh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BT6_Mang.*" />
+          <option name="PATTERN" value="BT9_person.persom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nhanvien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BT7_Collection_ArrayList.Nhanvien" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT9_JavaOOP2.Person" />
       <module name="BaitapJava_Linh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BT7_Collection_ArrayList.*" />
+          <option name="PATTERN" value="BT9_person.persom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Company" />
+        <item itemvalue="Application.BT9_person.persom.Person" />
+        <item itemvalue="Application.Information" />
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.Thongtin" />
-        <item itemvalue="Application.BT8_JavaOOP1.Nhanvien" />
-        <item itemvalue="Application.Nhanvien" />
-        <item itemvalue="Application.BT7" />
-        <item itemvalue="Application.Mang" />
       </list>
     </recent_temporary>
   </component>
