@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a920231-6bfd-42a5-ae53-fa3912a0f9f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BT9_person/company/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT9_person/person/Information.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT9_person/person/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,17 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/testing/BaitapJava_Linh&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/testing/BaitapJava_Linh/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/testing/BaitapJava_Linh",
+    "onboarding.tips.debug.path": "D:/testing/BaitapJava_Linh/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
-  <component name="RunManager" selected="Application.Company">
+}]]></component>
+  <component name="RunManager" selected="Application.TestCases">
     <configuration name="BT9_person.persom.Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BT9_person.persom.Person" />
       <module name="BaitapJava_Linh" />
@@ -101,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thongtin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BT8_JavaOOP1.Thongtin" />
+    <configuration name="TestCases" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT10_JavaOOP3_testcases.TestCases" />
       <module name="BaitapJava_Linh" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BT8_JavaOOP1.*" />
+          <option name="PATTERN" value="BT10_JavaOOP3_testcases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCases" />
         <item itemvalue="Application.Company" />
         <item itemvalue="Application.BT9_person.persom.Person" />
         <item itemvalue="Application.Information" />
         <item itemvalue="Application.Person" />
-        <item itemvalue="Application.Thongtin" />
       </list>
     </recent_temporary>
   </component>
