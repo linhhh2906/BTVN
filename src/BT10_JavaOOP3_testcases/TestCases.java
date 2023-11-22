@@ -25,7 +25,7 @@ public class TestCases  extends BaseTest {
     public static void main(String[] args) {
         TestCases testCases = new TestCases();
         testCases.Testcaselogin();
-        System.out.println(" TC2:");
+        System.out.println(" #######  TC2: Add a new category: ####### ");
         testCases.TestcaseAddcategory();
     }
 }
